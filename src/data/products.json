@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Azucar",
+    "image": "aceite",
+    "description": "Azucar blanca para cocina",
+    "price": 2000,
+    "options": [
+      { "id": 1, "name": "1/2 libra", "price": 1000 },
+      { "id": 2, "name": "1 libra", "price": 2000 }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Arroz",
+    "image": "arroz",
+    "description": "Arroz blanco premiun",
+    "price": 2000,
+    "options": [
+      { "id": 1, "name": "1/2 libra", "price": 1000 },
+      { "id": 2, "name": "1 libra", "price": 2000 }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Harina",
+    "image": "guitara_3",
+    "description": "Harrina nieve",
+    "price": 1800,
+    "options": [
+      { "id": 1, "name": "1/2 libra", "price": 900 },
+      { "id": 2, "name": "1 libra", "price": 1800 }
+    ]
+  }
+]
