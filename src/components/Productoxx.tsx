@@ -57,7 +57,7 @@ onChange={(e)=> setSelectOption(JSON.parse(e.target.value))}>
                         type="button"
                         className="btn btn-dark w-100"
                         onClick={handleAgregarAlCarrito}
-                    >Agregar al Carrito</button>
+                    >Agregar al Carrito v1git</button>
                 </div>
                 </div>
                 </>

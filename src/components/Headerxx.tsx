@@ -45,7 +45,7 @@ const Headerxx = ({cart, removeFromCart, increaseQuantity,
                           <th>Imagen</th>
                           <th>Nombre</th>
                           <th>Opcion</th>
-                          <th>Precio</th>
+                          <th>Preciov</th>
                           <th>Cantidad</th>
                           <th></th>
                         </tr>
